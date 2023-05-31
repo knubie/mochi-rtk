@@ -1,0 +1,84 @@
+{
+  "~:decks": [
+    {
+      "~:id": "~:Jmpfbg0L",
+      "~:name": "Remembering the Kanji",
+      "~:template-id": "~:z0MaQ6x5",
+      "~:cards": {
+        "~#list": [
+          {
+            "~:content": "",
+            "~:name": "Hesitate",
+            "~:deck-id": "~:Jmpfbg0L",
+            "~:fields": {
+              "~:pDrlbE4x": {
+                "~:id": "~:pDrlbE4x",
+                "~:value": "2997"
+              },
+              "~:name": {
+                "~:id": "~:name",
+                "~:value": "Hesitate"
+              },
+              "~:THwgyfYd": {
+                "~:id": "~:THwgyfYd",
+                "~:value": ""
+              },
+              "~:5DxonkEs": {
+                "~:id": "~:5DxonkEs",
+                "~:value": ""
+              },
+              "~:vVM4vfPZ": {
+                "~:id": "~:vVM4vfPZ",
+                "~:value": "躊"
+              }
+            },
+            "~:pos": "U",
+            "~:references": {
+              "~#set": []
+            },
+            "~:reverse-reviews": [],
+            "~:id": "~:lgCypCNj",
+            "~:reviews": [],
+            "~:created-at": {
+              "~#dt": 1621079050175
+            },
+            "~:new?": false,
+            "~:template-id": "~:z0MaQ6x5"
+          }
+        ]
+      }
+    }
+  ],
+  "~:version": 2,
+  "~:templates": {
+    "~#list": [
+      {
+        "~:id": "~:z0MaQ6x5",
+        "~:name": "RTK",
+        "~:content": "## <sub><sup>`<< ID >>`</sup></sub> << Keyword >>\n---\n<< Components >>\n\n<< Story >>\n---\n# <span style=\"font-family: EPSON-KYOKASHO; font-size: 4em;\"><< Kanji >></span>",
+        "~:fields": {
+          "~:name": {
+            "~:id": "~:name",
+            "~:name": "Keyword"
+          },
+          "~:5DxonkEs": {
+            "~:id": "~:5DxonkEs",
+            "~:name": "Story"
+          },
+          "~:vVM4vfPZ": {
+            "~:id": "~:vVM4vfPZ",
+            "~:name": "Kanji"
+          },
+          "~:pDrlbE4x": {
+            "~:id": "~:pDrlbE4x",
+            "~:name": "ID"
+          },
+          "~:THwgyfYd": {
+            "~:id": "~:THwgyfYd",
+            "~:name": "Components"
+          }
+        }
+      }
+    ]
+  }
+}

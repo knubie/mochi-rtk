@@ -1,0 +1,2 @@
+{:paths ["src"]
+ :deps {nano-id/nano-id {:mvn/version "1.0.0"}}}

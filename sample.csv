@@ -1,0 +1,105 @@
+kanji,id_5th_ed,id_6th_ed,keyword_5th_ed,keyword_6th_ed,components,on_reading,kun_reading
+一,1,1,one,one,,イチ; イツ,ひと-; ひと.つ
+二,2,2,two,two,,ニ; ジ,ふた; ふた.つ; ふたた.び
+三,3,3,three,three,,サン; ゾウ,み; み.つ; みっ.つ
+四,4,4,four,four,pent in; human legs,シ,よ; よ.つ; よっ.つ; よん
+五,5,5,five,five,,ゴ,いつ; いつ.つ
+六,6,6,six,six,top hat; animal legs,ロク; リク,む; む.つ; むっ.つ; むい
+七,7,7,seven,seven,diced,シチ,なな; なな.つ; なの
+八,8,8,eight,eight,,ハチ,や; や.つ; やっ.つ; よう
+九,9,9,nine,nine,baseball,キュウ; ク,ここの; ここの.つ
+十,10,10,ten,ten,needle,ジュウ; ジッ; ジュッ,とお; と
+口,11,11,mouth,mouth,,コウ; ク,くち
+日,12,12,day,day,sun,ニチ; ジツ,ひ; -び; -か
+月,13,13,month,month,moon; flesh; part of the body,ゲツ; ガツ,つき
+田,14,14,rice field,rice field,brains,デン,た
+目,15,15,eye,eye,,モク; ボク,め; -め; ま-
+古,16,16,old,old,tombstone; gravestone; church; ten; needle; mouth,コ,ふる.い; ふる-; -ふる.す
+吾,17,17,I,I,five; mouth,ゴ,われ; わが-; あ-
+冒,18,18,risk,risk,sun; day; eye,ボウ,おか.す
+朋,19,19,companion,companion,moon; month; flesh; part of the body,ホウ,とも
+明,20,20,bright,bright,sun; day; moon; month; flesh; part of the body,メイ; ミョウ; ミン,あ.かり; あか.るい; あか.るむ; あか.らむ; あき.らか; あ.ける; -あ.け; あ.く; あ.くる; あ.かす
+唱,21,21,chant,chant,mouth; prosperous; sun; day; tongue wagging,ショウ,とな.える
+晶,22,22,sparkle,sparkle,day; sun,ショウ,
+品,23,23,goods,goods,mouth,ヒン; ホン,しな
+呂,24,24,spine,spine,mouth; drop,ロ; リョ,せぼね
+昌,25,25,prosperous,prosperous,sun; day,ショウ,さかん
+早,26,26,early,early,sunflower; sun; day; ten; needle,ソウ; サッ,はや.い; はや; はや-; はや.まる; はや.める; さ-
+旭,27,27,rising sun,rising sun,nine; baseball; sun; day,キョク,あさひ
+世,28,28,generation,generation,ten; twenty,セイ; セ; ソウ,よ; さんじゅう
+胃,29,29,stomach,stomach,rice field; brains; moon; month; flesh; part of the body,イ,
+旦,30,30,nightbreak,nightbreak,sun; one; floor,タン; ダン,あき.らか; あきら; ただし; あさ; あした
+胆,31,31,gall bladder,gall bladder,gallbladder; moon; month; flesh; part of the body; nightbreak; sun; day; one; floor,タン,きも
+亘,32,32,span,span,one; ceiling; sun; day; one; floor,コウ; カン,わた.る; もと.める
+凹,33,33,concave,concave,,オウ,くぼ.む; へこ.む; ぼこ
+凸,34,34,convex,convex,,トツ,でこ
+旧,35,35,olden times,olden times,stick; sun; day,キュウ,ふる.い; もと
+自,36,36,oneself,oneself,drop; eye,ジ; シ,みずか.ら; おの.ずから; おの.ずと
+白,37,37,white,white,drop; sun; day,ハク; ビャク,しろ; しら-; しろ.い
+百,38,38,hundred,hundred,one; ceiling; white; dove,ヒャク; ビャク,もも
+中,39,39,in,in,stick; mouth,チュウ,なか; うち; あた.る
+千,40,40,thousand,thousand,drop; ten; needle,セン,ち
+舌,41,41,tongue,tongue,thousand; drop; ten; needle; mouth,ゼツ,した
+升,42,42,measuring box,measuring box,thousand; drop; ten; needle,ショウ,ます
+昇,43,43,rise up,rise up,sun; day; measuring box; thousand; drop; ten; needle,ショウ,のぼ.る
+丸,44,44,round,round,drop; nine; baseball,ガン,まる; まる.める; まる.い
+寸,45,45,measurement,measurement,glue; drop; ten with a hook,スン,
+肘,2464,46,elbow,elbow,moon; month; flesh; part of the body; glue,チュウ,ひじ
+専,46,47,specialty,specialty,ten; needle; rice field; brains; glue,セン,もっぱ.ら
+博,47,48,Dr.,Dr.,ten; needle; acupuncturist; specialty; drop; ten; needle; rice field; brains; glue,ハク; バク,
+占,48,49,fortune-telling,fortune-telling,magic wand; augury; divining rod; mouth,セン,し.める; うらな.う
+上,49,50,above,above,magic wand; augury; divining rod; one; floor,ジョウ; ショウ; シャン,うえ; -うえ; うわ-; かみ; あ.げる; -あ.げる; あ.がる; -あ.がる; あ.がり; -あ.がり; のぼ.る; のぼ.り; のぼ.せる; のぼ.す; よ.す
+下,50,51,below,below,one; ceiling; magic wand; augury; divining rod,カ; ゲ,した; しも; もと; さ.げる; さ.がる; くだ.る; くだ.り; くだ.す; -くだ.す; くだ.さる; お.ろす; お.りる
+卓,51,52,eminent,eminent,magic wand; augury; divinging rod; sunflower; sun; day; ten; needle,タク,
+朝,52,53,morning,morning,mist; ten; needle; early; sun; day; moon; month; flesh; part of the body,チョウ,あさ
+嘲,2155,54,derision,derision,mouth; morning; mist; ten; needle; early; sun; day; moon; month; flesh; part of the body,チョウ; トウ,あざけ.る
+只,53,55,only,only,mouth; animal legs; eight,シ,ただ
+貝,54,56,shellfish,shellfish,clam; oyster; eye; animal legs; eight,バイ,かい
+唄,2178,57,pop song,pop song,mouth; shellfish; clam; oyster; eye; animal legs; eight,バイ,うた; うた.う
+貞,55,58,upright,upright,magic wand; augury; divining rod; shellfish; clam; oyster; eye; animal legs; eight,テイ,さだ
+員,56,59,employee,employee,mouth; shellfish; clam; oyster; eye; animal legs; eight,イン,
+貼,2736,60,affix,post a bill,shellfish; clam; oyster; eye; animal legs; eight; fortune-telling; magic wand; augury; mouth,テン; チョウ,は.る; つ.く
+見,57,61,see,see,eye; human legs,ケン,み.る; み.える; み.せる
+児,58,62,newborn babe,newborn babe,olden times; stick; sun; day; human legs,ジ; ニ; ゲイ,こ; -こ; -っこ
+元,59,63,beginning,beginning,two; human legs,ゲン; ガン,もと
+頁,60,64,page,page,one; ceiling; drop; shellfish; clam; oyster; eye; animal legs; eight,ケツ,ぺえじ; おおがい; かしら
+頑,61,65,stubborn,stubborn,beginning; two; human legs; head; page; one; ceiling; drop; shellfish; clam; oyster; eye; animal legs; eight,ガン,かたく
+凡,62,66,mediocre,mediocre,drop; wind,ボン; ハン,およ.そ; おうよ.そ; すべ.て
+負,63,67,defeat,defeat,bound up; shellfish; clam; oyster; eye; animal legs; eight,フ,ま.ける; ま.かす; お.う
+万,64,68,ten thousand,ten thousand,one; ceiling; bound up,マン; バン,よろず
+句,65,69,phrase,phrase,bound up; mouth,ク,
+肌,66,70,texture,texture,moon; month; flesh; part of the body; wind,キ,はだ
+旬,67,71,decameron,decameron,bound up; sun; day,ジュン; シュン,
+勺,68,72,ladle,ladle,bound up; drop,シャク,
+的,69,73,bull's eye,bull's eye,bull’s eye; white; dove; ladle; bound up; drop,テキ,まと
+首,70,74,neck,neck,horns; nose; one; ceiling; drop; eye,シュ,くび
+乙,71,75,fish guts,fish guts,fishguts; fishhook,オツ; イツ,おと-; きのと
+乱,72,76,riot,riot,tongue; thousand; drop; ten; needle; mouth; fishhook,ラン; ロン,みだ.れる; みだ.る; みだ.す; みだ; おさ.める; わた.る
+直,73,77,straightaway,straightaway,ten; needle; eye; fishhook,チョク; ジキ; ジカ,ただ.ちに; なお.す; -なお.す; なお.る; なお.き; す.ぐ
+具,74,78,tool,tool,eye; one; animal legs; eight,グ,そな.える; つぶさ.に
+真,75,79,true,true,ten; needle; eye; tool; one; animal legs; eight,シン,ま; ま-; まこと
+工,76,80,craft,craft,artificial,コウ; ク; グ,
+左,77,81,left,left,by one’s side; craft,サ; シャ,ひだり
+右,78,82,right,right,by one’s side; mouth,ウ; ユウ,みぎ
+有,79,83,possess,possess,by one’s side; moon; month; flesh; part of the body,ユウ; ウ,あ.る
+賄,80,84,bribe,bribe,shellfish; clam; oyster; eye; animal legs; eight; possess; by one’s side; moon; month; flesh; part of the body,ワイ,まかな.う
+貢,81,85,tribute,tribute,craft; shellfish; clam; oyster; eye; animal legs; eight,コウ; ク,みつ.ぐ
+項,82,86,paragraph,paragraph,craft; head; page; one; ceiling; drop; shellfish; clam; oyster; eye; animal legs; eight,コウ,うなじ
+刀,83,87,sword,sword,dagger,トウ,かたな; そり
+刃,84,88,blade,blade,drop; sword; dagger,ジン; ニン,は; やいば; き.る
+切,85,89,cut,cut,seven; diced; sword; dagger,セツ; サイ,き.る; -き.る; き.り; -き.り; -ぎ.り; き.れる; -き.れる; き.れ; -き.れ; -ぎ.れ
+召,86,90,seduce,seduce,sword; dagger; mouth,ショウ,め.す
+昭,87,91,shining,shining,sun; day; seduce; summon; sword; dagger; mouth,ショウ,
+則,88,92,rule,rule,shellfish; clam; oyster; eye; animal legs; eight; sword; sabre; saber,ソク,のっと.る
+副,89,93,vice-,vice-,wealth; one; ceiling; mouth; rice field; brains; sword; sabre; saber,フク,
+別,90,94,separate,separate,mouth; bound up; sword; sabre; saber,ベツ,わか.れる; わ.ける
+丁,91,95,street,street,nail; spike,チョウ; テイ; チン; トウ; チ,ひのと
+町,92,96,village,village,rice field; brains; street; nail; spike,チョウ,まち
+可,93,97,can,can,mouth; street; street; nail; spike,カ; コク,-べ.き
+頂,94,98,place on the head,place on the head,street; nail; spike; head; page; one; ceiling; drop; shellfish; clam; oyster; eye; animal legs; eight,チョウ,いただ.く; いただき
+子,95,99,child,child,,シ; ス; ツ,こ; -こ; ね
+孔,96,100,cavity,cavity,child; fishhook,コウ,あな
+了,97,101,complete,complete,child with arms wrapped up,リョウ,
+女,98,102,woman,woman,,ジョ; ニョ; ニョウ,おんな; め
+好,99,103,fond,fond,woman; child,コウ,この.む; す.く; よ.い; い.い
+如,100,104,likeness,likeness,woman; mouth,ジョ; ニョ,ごと.し

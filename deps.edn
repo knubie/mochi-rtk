@@ -1,0 +1,4 @@
+{:paths ["src"]
+ :deps {com.cognitect/transit-clj {:mvn/version "1.0.324"}
+        org.clojure/data.csv {:mvn/version "1.0.0"}
+        nano-id/nano-id {:mvn/version "1.0.0"}}}
